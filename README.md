@@ -1,4 +1,4 @@
-readme_sentiment = """# 📝 Amazon Reviews Sentiment Analysis
+📝 Amazon Reviews Sentiment Analysis
 
 ## 📌 Overview
 This project performs **sentiment analysis** on Amazon product reviews using **TextBlob**.  
